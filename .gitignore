@@ -1,0 +1,6 @@
+*.trt
+*.engine
+*.pt
+*.pth
+*.onnx
+*/__pycache__
